@@ -33,3 +33,6 @@ Broken out.
 # FTDI header
 Not broken out (should be available directly on Pro-mini board depending on the headers used).
 
+# TODO (in next revision)
+* Add second power switch footprint (for a 2.54mm-pitch switch)
+* Move the power switch footprint closer to the edge of the board
