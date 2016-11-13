@@ -37,4 +37,5 @@ Not broken out (should be available directly on Pro-mini board depending on the 
 * Add second power switch footprint (for a 2.54mm-pitch switch)
 * Move the power switch footprint closer to the edge of the board
 * Change power switch footprint to have slightly larger diameter outer mounting holes
+* Increase the width of the traces of the RAW network (the existing width should be more than sufficient for the low currents used, but why not?)
 * Add github URL and OSH logo
